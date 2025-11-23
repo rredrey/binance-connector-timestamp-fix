@@ -17,3 +17,5 @@ The official Binance Connector library **ignores** your `timestamp` parameter an
 
 ```python
 int(time.time() * 1000)
+[![PyPI](https://img.shields.io/pypi/v/binance-timestamp-fix?color=success&label=pypi)](https://pypi.org/project/binance-timestamp-fix/)
+[![Downloads](https://img.shields.io/pypi/dm/binance-timestamp-fix)](https://pypi.org/project/binance-timestamp-fix/)
