@@ -15,3 +15,5 @@ from binance_timestamp_fix import apply_timestamp_fix
 
 client = UMFutures(key='xxx', secret='yyy')
 apply_timestamp_fix(client)   # ← ВСЁ. Больше никогда не будет этой ошибки.
+[![PyPI](https://img.shields.io/pypi/v/binance-timestamp-fix?color=success&label=pypi)](https://pypi.org/project/binance-timestamp-fix/)
+[![Downloads](https://img.shields.io/pypi/dm/binance-timestamp-fix)](https://pypi.org/project/binance-timestamp-fix/)
